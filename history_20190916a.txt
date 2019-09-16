@@ -1,0 +1,55 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd
+    4  pwd
+    5  ls
+    6  touch aaa.txtexit
+    7  touch aaa.txt
+    8  ls -l aaa.txt
+    9  cat aaa.txt
+   10  touch -t 201909171000 aaa.txt
+   11  ls -l
+   12  touch -t 201909171000 aaa.txt
+   13  ls -l
+   14  echo hello world!
+   15  echo hello world! >bbb.txt
+   16  ls -l
+   17  ls -l bbb.txt
+   18  cat bbb.txt
+   19  echo Hello World again! > bbb.txt
+   20  ls -l bbb.txt
+   21  cat bbb.txt
+   22  echo Hello World again! >> bbb.txt
+   23  cat bbb.txt
+   24  ls -l bbb.txt
+   25  cat bbb.txt
+   26  stat bbb.txt
+   27  echo Hello\tWorld!
+   28  echo -c Hello\tWorld!
+   29  man echo
+   30  echo -e Hello\tWorld!
+   31  echo -e "Hello\vWorld!" > ccc.txt
+   32  cat /bin/ls
+   33  ls -l /bin/ls
+   34  cat /bin/ls > eee.txt
+   35  ls -l
+   36  rm aaa.txt
+   37  ls -lo
+   38  em aaa.txt
+   39  ls -l *.txt
+   40  rm *.txt
+   41  touch mlu.txt
+   42  touch rli.bxt
+   43  ls -l
+   44  rm *1*.*xt
+   45  em *1*.*xt
+   46  ls -l
+   47  echo cd /
+   48  mv ~/ccc.txt ~/Music
+   49  pwd
+   50  cat Music/dd.tx
+   51  pwd
+   52  rm Music/*.*pwd
+   53  rm Music/*.*
+   54  ls -l
+   55  history > history_20190916a.txt
