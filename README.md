@@ -20,3 +20,22 @@ rm Music/*.*
 ls -l /bin/ls
 cat aaa.txt
 touch rli.bxt
+virtualBox --startvm XP
+quartus
+~/RTR105_2019F$ git
+ls -l
+git clone https://github.com/shoaibkhan000789
+ls -l
+cd shoaibkhan/
+ls -l
+nano git-upload
+mv git-upload git-upload
+chmod 744 git-upload
+./git-upload
+whereis ls
+ls
+ls -l /bin/ls
+echo $PATH
+PATH=$PATH:~/shoaibkhan/
+echo $PATH
+git
