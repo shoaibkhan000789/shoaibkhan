@@ -16,7 +16,7 @@
    16  ls -l
    17  ./git-upload 
    18  git-upload
-   19  whereis git-upload
+   19* 
    20  ls
    21  whereis ls
    22  ls -l /bin/ls
@@ -29,3 +29,46 @@
    29  ls
    30  git-upload
    31  history > history_20190923.txt
+   32  git-upload 20190923_13_25
+   33  git-upload 20190923-13_25
+   34  20190923_13_25
+   35  ls -l
+   36  git-upload 20190923_13_25
+   37  echo $PATH
+   38  PATH=$PATH:~/shoaibkhan/
+   39  echo $PATH
+   40  pwd
+   41  git-upload 20190923_13_25
+   42  cd
+   43  ls -l
+   44  git clone https://github.com/shoaibkhan000789/shoaibkhan
+   45  ls -l
+   46  git clone https://github.com/shoaibkhan000789/shoaibkhan
+   47  cd shoaibkhan/
+   48  nano elementary.c
+   49  ls -l
+   50  ls-
+   51  ls -l
+   52  gcc elementary.c -o prg1
+   53  ls -l
+   54  ./git-upload 20190923_14_10
+   55  mv elementry.c shoaibkhan/
+   56  ls -l
+   57  mv elementary. elementary.c
+   58  ls -l
+   59  mkdir works
+   60  mv elementary.c works/
+   61  ls -l
+   62  cd works/
+   63  ls -l
+   64  gcc elementary.c 
+   65  ls -l
+   66  gcc elementary.c -o prg1
+   67  ls -l
+   68  ./prg1 
+   69  rm prg1 
+   70  rm a.out 
+   71  ls -l
+   72  cd ..
+   73  ls -l
+   74  history > history_20190923.txt 
