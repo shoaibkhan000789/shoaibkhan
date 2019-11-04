@@ -3,8 +3,8 @@
 void main()
  {
  float a=1.23456  b=7.89012, c=34.5678;
- printf("floats: %4.2f %+.0e %E \n",A=1.23456);
- printf("floats: %4.2f %+.0e %E \n",B=7.89012);
+ printf("floats: %4.2f %+.0e %E \n",a);
+ printf("floats: %4.2f %+.0e %E \n",b);
 
  // write code to get following result  (use printf):
 /*
